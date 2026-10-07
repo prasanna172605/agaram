@@ -1,0 +1,11 @@
+@keyframes marquee { 
+  0% { transform: translate(0px); }
+  100% { transform: translate(-100%); }
+}
+
+@media (max-width: 571px) {
+[data-cid="n344"]{cursor:url("https://maps.gstatic.com/mapfiles/openhand_8_8.cur"), default}
+}
+@media (min-width: 572px) and (max-width: 1024px) {
+[data-cid="n344"]{cursor:url("https://maps.gstatic.com/mapfiles/openhand_8_8.cur"), default}
+}

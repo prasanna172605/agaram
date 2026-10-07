@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ditto": {
+      "serverUrl": "https://api.ditto.site/mcp",
+      "headers": {
+        "Authorization": "Bearer dtto_live_LBl_E3cRlxXzquzNQVHV3o5gXOeiBpY3ef9l6pLx180"
+      }
+    }
+  }
+}
