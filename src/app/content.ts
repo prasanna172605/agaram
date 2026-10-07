@@ -30,22 +30,22 @@ export type LogoDataItem = {
   imgSrc: string;
 };
 export const logoData: LogoDataItem[] = [
-    { imgSrc: "/assets/cloned/images/d9f8b7e74348.webp" },
-    { imgSrc: "/assets/cloned/images/bdf30b575b75.webp" },
-    { imgSrc: "/assets/cloned/images/84f6982aac43.webp" },
-    { imgSrc: "/assets/cloned/images/f1c254066d09.webp" },
-    { imgSrc: "/assets/cloned/images/7777726ceb03.webp" },
-    { imgSrc: "/assets/cloned/images/ed65037bfbcc.webp" },
-    { imgSrc: "/assets/cloned/images/7d268acba778.webp" },
-    { imgSrc: "/assets/cloned/images/7249b029c792.webp" },
-    { imgSrc: "/assets/cloned/images/65445e34380d.webp" },
-    { imgSrc: "/assets/cloned/images/bf1d9031fcf4.webp" },
-    { imgSrc: "/assets/cloned/images/7874c9308db9.webp" },
-    { imgSrc: "/assets/cloned/images/27797ce0f5ed.webp" },
-    { imgSrc: "/assets/cloned/images/9641480145be.webp" },
-    { imgSrc: "/assets/cloned/images/a600c4ae61ae.webp" },
-    { imgSrc: "/assets/cloned/images/123e975ec7c2.webp" },
-    { imgSrc: "/assets/cloned/images/3088e325c9fd.webp" }
+    { imgSrc: "/agaram/assets/cloned/images/d9f8b7e74348.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/bdf30b575b75.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/84f6982aac43.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/f1c254066d09.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/7777726ceb03.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/ed65037bfbcc.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/7d268acba778.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/7249b029c792.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/65445e34380d.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/bf1d9031fcf4.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/7874c9308db9.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/27797ce0f5ed.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/9641480145be.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/a600c4ae61ae.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/123e975ec7c2.webp" },
+    { imgSrc: "/agaram/assets/cloned/images/3088e325c9fd.webp" }
 ];
 
 export type TextLinkDataItem = {

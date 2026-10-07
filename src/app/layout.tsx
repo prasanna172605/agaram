@@ -23,24 +23,24 @@ export const metadata = {
   "icons": {
     "shortcut": [
       {
-        "url": "/assets/agaram-favicon.png"
+        "url": "/agaram/assets/agaram-favicon.png"
       }
     ],
     "icon": [
       {
-        "url": "/assets/agaram-favicon.png",
+        "url": "/agaram/assets/agaram-favicon.png",
         "type": "image/png",
         "sizes": "64x64"
       },
       {
-        "url": "/assets/agaram-logo.png",
+        "url": "/agaram/assets/agaram-logo.png",
         "type": "image/png",
         "sizes": "512x512"
       }
     ],
     "apple": [
       {
-        "url": "/assets/agaram-logo.png"
+        "url": "/agaram/assets/agaram-logo.png"
       }
     ]
   }

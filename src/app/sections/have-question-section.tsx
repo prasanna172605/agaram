@@ -43,7 +43,7 @@ export default function HaveQuestionSection() {
           </a>
         </div>
         <div className="w-1/2 min-h-125 block relative z-10 shrink-0 h-auto max-md:w-full max-md:min-h-87.5 max-md:h-[21.875rem] md:max-lg:w-[45%] md:max-lg:min-h-112.5" data-cid="n534">
-          <img className="w-160 h-160.5 block absolute max-w-full overflow-clip object-contain object-[50%_100%] align-middle text-clr-0 [filter:drop-shadow(var(--clr-7)_-20px_0px_25px)] [translate:32px] [scale:0.9] max-md:w-[23.4375rem] max-md:h-87.5 max-md:[translate:initial] md:max-lg:w-86.5 md:max-lg:h-146 md:max-lg:[translate:16px] md:max-lg:[scale:0.95] 2xl:w-240" data-cid="n535" data-component="image" alt="Agaram Elite Wear model showcasing menswear collection" sizes="(max-width: 768px) 100vw, 50vw" src="/assets/model-no-logo.png" />
+          <img className="w-160 h-160.5 block absolute max-w-full overflow-clip object-contain object-[50%_100%] align-middle text-clr-0 [filter:drop-shadow(var(--clr-7)_-20px_0px_25px)] [translate:32px] [scale:0.9] max-md:w-[23.4375rem] max-md:h-87.5 max-md:[translate:initial] md:max-lg:w-86.5 md:max-lg:h-146 md:max-lg:[translate:16px] md:max-lg:[scale:0.95] 2xl:w-240" data-cid="n535" data-component="image" alt="Agaram Elite Wear model showcasing menswear collection" sizes="(max-width: 768px) 100vw, 50vw" src="/agaram/assets/model-no-logo.png" />
         </div>
         <div className="w-1/2 flex relative z-20 py-24 px-20 flex-col justify-center max-md:hidden md:max-lg:w-[55%] md:max-lg:px-12" data-cid="n536">
           <div className="flex mb-8 items-center gap-4" data-cid="n537">

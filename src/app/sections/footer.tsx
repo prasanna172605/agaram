@@ -9,7 +9,7 @@ export default function Footer({ textLinkData = textLinkDataContent, textLink2Da
       <div className="flex max-w-400 justify-between gap-24 mx-auto max-md:flex-col max-md:gap-12" data-cid="n556">
         <div className="flex flex-col gap-6 max-w-sm" data-cid="n557">
           <a className="flex items-center gap-3 cursor-pointer" data-cid="n558" data-component="link" aria-label="Agaram Elite Wear Home" href="/">
-            <img className="w-12 h-12 block max-w-full rounded-lg object-contain aspect-square align-middle text-clr-0 shadow-sm" data-cid="n559" data-component="image" alt="Agaram Elite Wear" height="48" src="/assets/agaram-logo.png" width="48" />
+            <img className="w-12 h-12 block max-w-full rounded-lg object-contain aspect-square align-middle text-clr-0 shadow-sm" data-cid="n559" data-component="image" alt="Agaram Elite Wear" height="48" src="/agaram/assets/agaram-logo.png" width="48" />
             <div className="flex flex-col justify-center leading-tight">
               <span className="font-black text-white tracking-widest text-lg uppercase font-sans">
                 AGARAM

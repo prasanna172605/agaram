@@ -7,7 +7,7 @@ export default function Navbar() {
       data-component="nav"
     >
       <a className="h-full flex items-center shrink-0 gap-3.5 cursor-pointer" data-cid="n3" data-component="link" aria-label="Agaram Elite Wear Home" href="/">
-        <img className="block max-w-full shrink-0 overflow-clip object-contain rounded-xl aspect-square align-middle text-clr-0 w-14 h-14 max-md:w-11 max-md:h-11 shadow-sm" data-cid="n4" data-component="image" alt="Agaram Elite Wear Logo" height="80" src="/assets/agaram-logo.png" width="80" />
+        <img className="block max-w-full shrink-0 overflow-clip object-contain rounded-xl aspect-square align-middle text-clr-0 w-14 h-14 max-md:w-11 max-md:h-11 shadow-sm" data-cid="n4" data-component="image" alt="Agaram Elite Wear Logo" height="80" src="/agaram/assets/agaram-logo.png" width="80" />
         <div className="flex flex-col justify-center leading-tight">
           <span className="font-black text-foreground tracking-widest text-xl uppercase max-md:text-base font-sans">
             AGARAM

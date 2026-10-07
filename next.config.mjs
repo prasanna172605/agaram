@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
+  basePath: "/agaram",
+  assetPrefix: "/agaram/",
   images: { unoptimized: true },
   reactStrictMode: false,
   eslint: { ignoreDuringBuilds: true },
